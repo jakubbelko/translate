@@ -1,0 +1,15 @@
+{
+  "action": "response",
+  "results": {
+	  "en-us": {
+		  "DeepL": "Our great test text on AI translations",
+		  "GoogleTranslate": "Our great test text for AI translations",
+		  "WebnodeTranslate": null
+	  },
+	  "de": {
+		  "DeepL": "Unser gro\\u00dfer Testtext zu\nAI-\\u00dcbersetzungen",
+		  "GoogleTranslate": "Unser toller Testtext zu KI-\\u00dcbersetzungen",
+		  "WebnodeTranslate": null
+	  }
+  }
+}
